@@ -1,0 +1,94 @@
+{
+  "accounts": [
+    {
+      "firstName": "Marcus",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 48",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "1",
+        "balance": "1000",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Jens",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 47",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "2",
+        "balance": "1000",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Jørgen",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 46",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "3",
+        "balance": "1000",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Jesper",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 45",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "4",
+        "balance": "1000",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Jønke",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 44",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "5",
+        "balance": "1000",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Jørgen",
+      "lastName": "Gamer",
+      "birthDate": "11-07-2002",
+      "address": {
+        "street": "Langevej 43",
+        "city": "Helsingør",
+        "zip": 3000
+      },
+      "account": {
+        "id": "6",
+        "balance": "1000",
+        "isActive": true
+      }
+    }
+  ]
+}
